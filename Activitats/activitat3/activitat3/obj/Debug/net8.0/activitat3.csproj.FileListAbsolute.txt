@@ -1,0 +1,14 @@
+C:\Users\tboi5\Desktop\M3\M3_UF3\Activitats\activitat3\activitat3\bin\Debug\net8.0\activitat3.exe
+C:\Users\tboi5\Desktop\M3\M3_UF3\Activitats\activitat3\activitat3\bin\Debug\net8.0\activitat3.deps.json
+C:\Users\tboi5\Desktop\M3\M3_UF3\Activitats\activitat3\activitat3\bin\Debug\net8.0\activitat3.runtimeconfig.json
+C:\Users\tboi5\Desktop\M3\M3_UF3\Activitats\activitat3\activitat3\bin\Debug\net8.0\activitat3.dll
+C:\Users\tboi5\Desktop\M3\M3_UF3\Activitats\activitat3\activitat3\bin\Debug\net8.0\activitat3.pdb
+C:\Users\tboi5\Desktop\M3\M3_UF3\Activitats\activitat3\activitat3\obj\Debug\net8.0\activitat3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tboi5\Desktop\M3\M3_UF3\Activitats\activitat3\activitat3\obj\Debug\net8.0\activitat3.AssemblyInfoInputs.cache
+C:\Users\tboi5\Desktop\M3\M3_UF3\Activitats\activitat3\activitat3\obj\Debug\net8.0\activitat3.AssemblyInfo.cs
+C:\Users\tboi5\Desktop\M3\M3_UF3\Activitats\activitat3\activitat3\obj\Debug\net8.0\activitat3.csproj.CoreCompileInputs.cache
+C:\Users\tboi5\Desktop\M3\M3_UF3\Activitats\activitat3\activitat3\obj\Debug\net8.0\activitat3.dll
+C:\Users\tboi5\Desktop\M3\M3_UF3\Activitats\activitat3\activitat3\obj\Debug\net8.0\refint\activitat3.dll
+C:\Users\tboi5\Desktop\M3\M3_UF3\Activitats\activitat3\activitat3\obj\Debug\net8.0\activitat3.pdb
+C:\Users\tboi5\Desktop\M3\M3_UF3\Activitats\activitat3\activitat3\obj\Debug\net8.0\activitat3.genruntimeconfig.cache
+C:\Users\tboi5\Desktop\M3\M3_UF3\Activitats\activitat3\activitat3\obj\Debug\net8.0\ref\activitat3.dll

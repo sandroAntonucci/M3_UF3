@@ -1,0 +1,1 @@
+Escriptura amb StreamWriter en mode Append
